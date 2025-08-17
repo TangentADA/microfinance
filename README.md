@@ -27,8 +27,6 @@ This allows villagers all across India to pool their resources and receive **int
 3. Failure to do so will mean 4 members accountable for that person (shown in video) will either make him pay or split the debt, thus creating an incentive for the four members to keep the person accountable.
 
 
-<img src="https://raw.githubusercontent.com/jangidkrishna/0-loan_dapp/master/gui.png">
-
 ## Impact to Society of Solution:
 
 | Problems in rural microfinance | How our project solves them |
